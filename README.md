@@ -5,8 +5,11 @@ Notion clone coding with Wooahan brothers.
 ## Language, Libraries, Frameworks
 ### Front-end
 Typescript, React(possibly Next.js),
-Styled-components, scss, 
+<br />
+Styled-components, TailwindCSS, SASS, 
+<br />
 react-beautiful-dnd(or muuri-react, sortable.js), 
+<br />
 etc.
 
 ### Back-end
