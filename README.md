@@ -16,7 +16,8 @@ etc.
 Node.js, Express.js,<br />
 MySQL(or MariaDB),<br />
 MongoDB(possible),<br />
-Socket.io
+Socket.io<br />
+etc.
 
 ## What to make?
 A notion
