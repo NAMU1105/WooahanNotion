@@ -13,9 +13,9 @@ react-beautiful-dnd(or muuri-react, sortable.js),
 etc.
 
 ### Back-end
-Node.js, Express.js,
-MySQL(or MariaDB),
-MongoDB(possible),
+Node.js, Express.js,<br />
+MySQL(or MariaDB),<br />
+MongoDB(possible),<br />
 Socket.io
 
 ## What to make?
